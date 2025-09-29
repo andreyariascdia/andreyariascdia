@@ -13,19 +13,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# Alejandro Arias
+Este es mi repositorio personal.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Tecnologias usadas](#tecnologias-usadas)
 ## Información personal
 * Nombre: Andrey Arias
 * Ocupación: Estudiante de ESPOL
-* Lugar de residencia: Daule
 * Sitio web:
 ## Proyectos
-* 
-## Intereses
-*
+### Politecnico SA
+- **Lenguaje usado:** Java, Android
+- **Descripcion:** Proyecto de curso
+- **Estado:** Completo 
+- **Repositorio:**
+### Cine Polito
+- **Lenguaje usado:**
+- **Descripcion:** Proyecto de curso
+- **Estado:** Completo 
+- **Repositorio:**
+## Tecnologias usadas
+* Python
+* Java
+## Contacto
+- **Correo:**
+- **LinkedIn:**
