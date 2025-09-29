@@ -21,9 +21,9 @@ Este es mi repositorio personal.
 * [Tecnologias usadas](#tecnologias-usadas)
 * [Contacto](#contacto)
 ## Información personal
-* Nombre: Andrey Arias
-* Ocupación: Estudiante de ESPOL
-* Sitio web:
+- **Nombre:** Andrey Arias
+- **Ocupación:** Estudiante de ESPOL
+- **Sitio web:** https://andreyariascdia.github.io/andreyariascdia/
 ## Proyectos
 ### Politecnico SA
 - **Tecnologias usada:** Java, Android
