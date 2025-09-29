@@ -19,21 +19,22 @@ Este es mi repositorio personal.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Tecnologias usadas](#tecnologias-usadas)
+* [Contacto](#contacto)
 ## Información personal
 * Nombre: Andrey Arias
 * Ocupación: Estudiante de ESPOL
 * Sitio web:
 ## Proyectos
 ### Politecnico SA
-- **Lenguaje usado:** Java, Android
+- **Tecnologias usada:** Java, Android
 - **Descripcion:** Proyecto de curso
 - **Estado:** Completo 
-- **Repositorio:**
+- **Repositorio:** https://github.com/andreyariascdia/POO-P3-G10
 ### Cine Polito
-- **Lenguaje usado:**
+- **Tecnologias usadas:** MySQL, Node.js, TailWind CSS, JavaScript
 - **Descripcion:** Proyecto de curso
 - **Estado:** Completo 
-- **Repositorio:**
+- **Repositorio:** https://github.com/Luisssfva/Proyecto-SBD
 ## Tecnologias usadas
 * Python
 * Java
