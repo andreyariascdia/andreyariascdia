@@ -23,21 +23,21 @@ Este es mi repositorio personal.
 ## Información personal
 - **Nombre:** Andrey Arias
 - **Ocupación:** Estudiante de ESPOL
-- **Sitio web:** https://andreyariascdia.github.io/andreyariascdia/
+- **Sitio web:** [Github Pages](https://andreyariascdia.github.io/andreyariascdia/)
 ## Proyectos
 ### Politecnico SA
 - **Tecnologias usada:** Java, Android
 - **Descripcion:** Proyecto de curso
 - **Estado:** Completo 
-- **Repositorio:** https://github.com/andreyariascdia/POO-P3-G10
+- **Repositorio:** [Politecnico SA](https://github.com/OsideZ/POO-P3-G10-PolitecnicoSA)
 ### Cine Polito
 - **Tecnologias usadas:** MySQL, Node.js, TailWind CSS, JavaScript
 - **Descripcion:** Proyecto de curso
 - **Estado:** Completo 
-- **Repositorio:** https://github.com/Luisssfva/Proyecto-SBD
+- **Repositorio:** [Cine Polito](https://github.com/Luisssfva/Proyecto-SBD)
 ## Tecnologias usadas
 * Python
 * Java
 ## Contacto
-- **Correo:**
-- **LinkedIn:**
+- **Correo:** andreauca@espol.edu.ec
+- **LinkedIn:** [Andrey Arias](https://www.linkedin.com/in/andrey-arias-150693334/)
