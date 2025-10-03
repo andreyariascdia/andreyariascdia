@@ -38,6 +38,7 @@ Este es mi repositorio personal.
 ## Tecnologias usadas
 * Python
 * Java
+* SQL
 ## Contacto
 - **Correo:** andrauca@espol.edu.ec
 - **LinkedIn:** [Andrey Arias](https://www.linkedin.com/in/andrey-arias-150693334/)
